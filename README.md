@@ -283,6 +283,8 @@ Use this link below (after possibly signing up for
 
 [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/eddelbuettel/r2u)
 
+[![Open in Codeanywhere](https://codeanywhere.com/img/open-in-codeanywhere-btn.svg)](https://app.codeanywhere.com/#https://github.com/eddelbuettel/r2u)
+
 and run [one of the three example
 scripts](https://github.com/eddelbuettel/r2u/tree/master/inst/examples), or
 just start R in the terminal window.
